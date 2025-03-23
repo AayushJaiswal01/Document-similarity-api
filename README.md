@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-# Document-similarity-api
-=======
 # Document Similarity API
 This project is a REST API that uses Hugging Face's Sentence Transformers to generate embeddings for documents and performs similarity searches using ChromaDB hosted on an AWS EC2 instance.
+
+## Backend is hosted at: https://document-similarity-api.onrender.com
 
 ## Features
 Document Storage: Add text documents to ChromaDB with metadata.
